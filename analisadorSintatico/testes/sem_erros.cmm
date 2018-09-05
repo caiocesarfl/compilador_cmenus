@@ -1,0 +1,26 @@
+/*arquivo sem erros para testes da linguagem c- (Cmenus)
+ O programa propoe o calculo de um funcionário com um codigo fixo que trabalha t horas. O limite de horas semanais é 40
+ Caso ultrapasse 40, será considerado horas extras
+ O valor das horas também é definido */
+
+int cod;
+float salario;
+int horasTrabalhadas;
+float valorHora;
+float valorHoraExtra;
+ 
+cod=366;
+horasTrabalhadas=45;
+valorHora=10;
+valorHoraExtra=15;
+
+if (valorHora>40) {
+	salario=40*valorHora + (horasTrabalhadas-40)*valorHoraExtra;
+}
+
+else {
+	salario=horasTrabalhadas*valorHora;
+}
+
+
+

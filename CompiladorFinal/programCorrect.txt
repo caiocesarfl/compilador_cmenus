@@ -1,0 +1,28 @@
+int fatorial (int num, float k) {
+
+    int;
+    soma = 10 + 5;
+	if (num < 10){
+	    return num;
+	}
+	else{
+	    return k;
+	}
+}
+
+int funcao (int num ) {
+	return 0;
+}
+
+int main(void){
+
+	float numreal;
+	int resultado;
+
+	resultado = 4 + 5;
+	numreal = 4 + (3 * 5);
+
+	while (1) {
+		i = i + 1;
+	}
+}

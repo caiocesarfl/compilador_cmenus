@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="antlr-4.5.3-complete">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../analisadorSintatico/lib/antlr-4.5.3-complete.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../analisadorSintatico/lib/intellij-plugin-v4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

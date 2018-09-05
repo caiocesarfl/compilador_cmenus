@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="antlr-4.5.3-complete">
+    <archive path="/home/caio/Área de Trabalho/Desenvolvimento/intellij-plugin-v4/lib/antlr-4.5.3-complete.jar" />
+  </library>
+</eclipse-userlibraries>
+

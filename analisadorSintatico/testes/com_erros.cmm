@@ -1,0 +1,14 @@
+/*arquivo com erros para teste da linguagem c- (c-menos) */
+
+
+int cod_aluno=444;
+float nota_p1; 
+float 2nota_p2;  /*Erro 1: Indentificador em formato invalido*/
+float nota_p3;
+
+#$ /* Erro 5: Caracter nao reconhecido */
+
+nota_p1=0,6; /* Erro 4: Uso de caracter invalido com separador de casa decimal */
+nota_p2=0.h; /* Erro 2: Uso de caracter invalido na casa decimal do número decimal */
+nota_p3=a.5; /* Erro 3: Uso de caracter inválido na casa inteira do número decimal */
+
